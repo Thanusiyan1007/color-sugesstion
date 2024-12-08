@@ -10,7 +10,7 @@ const { createCanvas } = require("canvas"); // Import node-canvas for image gene
 
 const app = express();
 const PORT = 5000;
-const JWT_SECRET = "TDqFq24AfzGDEwveLCW5ekbq9WOcpL5D";
+const JWT_SECRET = "#";
 const OPENAI_API_KEY = "#"; // Replace with your actual OpenAI API key
 
 // Firebase Admin SDK initialization with service account
